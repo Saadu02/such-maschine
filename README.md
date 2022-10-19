@@ -44,7 +44,7 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 ### 1.21 Anforderungsanalyse
 | AA-№ | Typ | Anforderung  |
 | ---- | ------------ | ------- |
-|1|Funktional||Das Programm soll vom Benutzer die Dateinamen abfragen. |
+|1|Funktional|Das Programm soll vom Benutzer die Dateinamen abfragen.|
 |2|Funktional|Das Programm soll automatisch die Dateien ordnen.| 
 |3|Funktional|Das Programm soll eine Suchoption zur Verfügung haben.|  
 |4|Randbedingungen|Das Programm muss in C# geschrieben sein.|   
@@ -68,12 +68,6 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 ![image](https://user-images.githubusercontent.com/111046257/196634771-d5b579d5-d8ba-4b9f-a881-4d9a99a44a5f.png)
 
 <img width="589" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/111046257/196640878-4b1cbf14-d89c-4912-964d-abf97839047c.png">
-
-
-
-
-
-
 
 ## 2 Planen
 
