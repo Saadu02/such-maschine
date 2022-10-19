@@ -116,8 +116,14 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1 |   x.10    |  x        |   Mohammad     |
+| 2  |      x.10 |  x        |   Mohammad     |
+| 3  |  x.10     |   x       |   Mohammad     |
+| 4  | x.10      |    x      |        Mohammad|
+| 5  |   x.10   |      x    |        Mohammad|
+| 6  | x.10      |      x    |        Mohammad|
+| 7  |  x.10     |      x    |        Mohammad|
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
