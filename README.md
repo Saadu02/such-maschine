@@ -38,8 +38,12 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |  muss               | Funktionalität     | Als ein User möchte ich eine Datei hinzufügen, damit ich mir mehr Wissen behalte. |
+| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich meine Dateien in einen Ordner ordnen, damit es Ordnung gibt.                                   |
+| 3  | muss                | Qualität     |  Als ein User möchte ich meinen Ordner benennen, damit ich Dateien sortieren kann.                                      |
+| 4  | kann                | Funktionalität     |  Als ein User möchte ich, dass meine Dateien automatisch eingeordnet werden, damit ich schneller nach dem betroffenen Ordner suche.                                     |
+| 5  | muss                | Funktionalität     |  Als ein User möchte ich einen Begriff eingeben, damit ich die gewünschten Dateien/Ordner finden kann.                                     |
+| 6  | muss                | Funktionalität     |  Als ein User möchte ich die Dateien sehen, damit ich auf die gewünschten Dateien zugreifen kann.                                 |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
