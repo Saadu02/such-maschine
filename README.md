@@ -10,23 +10,26 @@ Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad 
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 |       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|19.10.2022| 1.0.0   |PAP fertig erstellt.|
 
 ## 1 Informieren
-Man hat verschiedene Text-Dateien in verschiedenen Ordnern. Man kann nach diesen Dateien individuell suchen oder die Such-Option benutzen. Hier kann man dann einen Begriff eingeben, der dann alle Dateien anzeigt, die diesen Begriff haben. 
-Dateien hineinfügen 
-Ordner erstellen 
-Titel für Ordner 
-Dateien automatisch einordnen 
-Begriff eingeben 
-Dateien anzeigen 
+Ordner Suchen: Man hat verschiedene Text-Dateien in verschiedenen Ordnern. Man kann nach diesen Dateien individuell suchen oder die Such-Option benutzen. Hier kann man dann einen Begriff eingeben, der dann alle Dateien anzeigt, die diesen Begriff haben. 
+
+Ordner erstellen: 
+Dateien hineinfügen ->
+Ordner erstellen ->
+Titel für Ordner ->
+Datei&Ordner speichern ->
+Dateien automatisch einordnen ->
+Begriff eingeben ->
+Dateien anzeigen ->
 
 
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
 
-Das Programm soll zeigen, wo unsere Dateien gespeichert sind.
+Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch Ordner erstellen.
 
 ### 1.2 User Stories
 
