@@ -85,7 +85,7 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 | 4 |       | Nicola          |  automatisches Einordnung            |   45 Minuten |
 | 5 |       | Nicola          | Suchfunktion             |      45 Minuten |
 | 6 |       | Nicola          | Dateien beim Suchen anzeigen             |     45 Minuten |
-| 7 |       | Nicola          |  Forder- und Hintergrund Farben            |        45 Minuten |
+| 7 |       | Nicola          |  Vorder- und Hintergrund Farben            |        45 Minuten |
 
 Total: 
 
