@@ -77,11 +77,15 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 <img width="589" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/111046257/196640878-4b1cbf14-d89c-4912-964d-abf97839047c.png">
 
 ## 2 Planen
-
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1 |       | Nicola |   Datei hinzufügen           |   45 Minuten            |
+| 2 |       | Nicola      | Dateien ordnen             |      45 Minuten          |
+| 3 |       | Nicola          |  Dateien sortieren          |       45 Minuten    |
+| 4 |       | Nicola          |  automatisches Einordnung            |   45 Minuten |
+| 5 |       | Nicola          | Suchfunktion             |      45 Minuten |
+| 6 |       | Nicola          | Dateien beim Suchen anzeigen             |     45 Minuten |
+| 7 |       | Nicola          |  Forder- und Hintergrund Farben            |        45 Minuten |
 
 Total: 
 
