@@ -93,7 +93,7 @@ Total:
 |      |Mohammand|Kontrollieren|              |               |
 |      |alle|Informieren|25.09.2022|               |
 |      |Sathana|Auftragsanalyse|19.10.2022|               |
-|      |Sathana, Nicola|Vorstellung zeichnen|              |               |
+|      |Sathana, Nicola|Vorstellung zeichnen|19.10.2022|               |
 |      |Nicola|PAP-design|19.10.2022|               |
 
 
