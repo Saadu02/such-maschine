@@ -3,7 +3,10 @@
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 ✍️ Ihr Gruppenname und Ihre Nachnamen
+
 Gruppennamen: Such-Maschine
+
+
 Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad Shahir.Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
