@@ -78,9 +78,9 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 ## 2 Planen
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1 |       | Nicola |   Datei hinzufügen           |   45 Minuten            |
-| 2 |       | Nicola      | Dateien ordnen             |      45 Minuten          |
-| 3 |       | Nicola          |  Dateien sortieren          |       45 Minuten    |
+| 1 |       | Nicola |   Sucheingabe erstellen          |   45 Minuten            |
+| 2 |       | Nicola      | dropdownListe erstellen            |      45 Minuten          |
+| 3 |       | Nicola          |  automatische führung von Website erstellen          |       45 Minuten    |
 | 4 |       | Nicola          |  automatisches Einordnung            |   45 Minuten |
 | 5 |       | Nicola          | Suchfunktion             |      45 Minuten |
 | 6 |       | Nicola          | Dateien beim Suchen anzeigen             |     45 Minuten |
