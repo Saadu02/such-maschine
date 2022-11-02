@@ -38,8 +38,11 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss               | Funktionalität     | Als ein User möchte ich eine Datei hinzufügen, damit ich mir mehr Wissen behalte. |
-| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich meine Dateien in einen Ordner ordnen, damit es Ordnung gibt.                                   |
+| 1    |  muss               | Funktionalität     | Als ein User möchte ich eine Datei hinzufügen oder erstellen, damit ich mir mehr Wissen behalte. |
+| 1    |  muss               | Funktionalität     | Als ein User möchte ich die möglichkeit ein Ordner zu erstellen, damit ich meine Dateien besser organisieren zu kann.|
+| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich eine Datei oder ein Ordner löschen, damit ich Sachen löschen kann, die ich nicht benötige.|
+| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich eine Datei oder ein Ordner herunterladen, damit ich Dateien oder Ordner an andere versenden oder auf meinem PC speichern kann .|
+| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich meine Dateien in einen Ordner ordnen, damit es Ordnung gibt.|
 | 3  | muss                | Qualität     |  Als ein User möchte ich meinen Ordner benennen, damit ich Dateien sortieren kann.                                      |
 | 4  | kann                | Funktionalität     |  Als ein User möchte ich, dass meine Dateien automatisch eingeordnet werden, damit ich schneller nach dem betroffenen Ordner suche.                                     |
 | 5  | muss                | Funktionalität     |  Als ein User möchte ich einen Begriff eingeben, damit ich die gewünschten Dateien/Ordner finden kann.                                     |
@@ -52,6 +55,9 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 | AA-№ | Typ | Anforderung  |
 | ---- | ------------ | ------- |
 |1|Funktional|Das Programm soll vom Benutzer die Dateinamen abfragen.|
+|1|Funktional|Das Programm soll die Funktion haben, einen neuen Ordner zu erstellen.|
+|1|Funktional|Das Programm soll die Funktion haben, Dateien und Ordner zu löschen.|
+|1|Funktional|Das Programm soll die Funktion haben, Dateien herunterzuladen|
 |2|Funktional|Das Programm soll automatisch die Dateien ordnen.| 
 |3|Funktional|Das Programm soll eine Suchoption zur Verfügung haben.|  
 |4|Randbedingungen|Das Programm muss in C# geschrieben sein.|   
@@ -71,8 +77,7 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
-![image](https://user-images.githubusercontent.com/111046257/199428125-03c62efe-7453-4bf8-ac32-19b1a596c170.png)
-
+![image](https://user-images.githubusercontent.com/111046257/196634727-fbc9b382-c769-4c1f-b987-e5211f686f24.png)
 ![image](https://user-images.githubusercontent.com/111046257/196634771-d5b579d5-d8ba-4b9f-a881-4d9a99a44a5f.png)
 
 <img width="589" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/111046257/196640878-4b1cbf14-d89c-4912-964d-abf97839047c.png">
