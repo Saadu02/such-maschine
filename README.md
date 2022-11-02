@@ -1,8 +1,5 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
 
 Gruppennamen: Such-Maschine
 
@@ -30,8 +27,6 @@ Dateien anzeigen ->
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
 Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch Ordner erstellen.
 
 ### 1.2 User Stories
@@ -39,31 +34,30 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  muss               | Funktionalität     | Als ein User möchte ich eine Datei hinzufügen oder erstellen, damit ich mir mehr Wissen behalte. |
-| 1    |  muss               | Funktionalität     | Als ein User möchte ich die möglichkeit ein Ordner zu erstellen, damit ich meine Dateien besser organisieren zu kann.|
-| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich eine Datei oder ein Ordner löschen, damit ich Sachen löschen kann, die ich nicht benötige.|
-| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich eine Datei oder ein Ordner herunterladen, damit ich Dateien oder Ordner an andere versenden oder auf meinem PC speichern kann .|
-| 2  |  muss               |  Funktionalität    |  Als ein User möchte ich meine Dateien in einen Ordner ordnen, damit es Ordnung gibt.|
-| 3  | muss                | Qualität     |  Als ein User möchte ich meinen Ordner benennen, damit ich Dateien sortieren kann.                                      |
-| 4  | kann                | Funktionalität     |  Als ein User möchte ich, dass meine Dateien automatisch eingeordnet werden, damit ich schneller nach dem betroffenen Ordner suche.                                     |
-| 5  | muss                | Funktionalität     |  Als ein User möchte ich einen Begriff eingeben, damit ich die gewünschten Dateien/Ordner finden kann.                                     |
-| 6  | muss                | Funktionalität     |  Als ein User möchte ich die Dateien sehen, damit ich auf die gewünschten Dateien zugreifen kann.                                 |
+| 2    |  muss               | Funktionalität     | Als ein User möchte ich die möglichkeit ein Ordner zu erstellen, damit ich meine Dateien besser organisieren zu kann.|
+| 3  |  muss               |  Funktionalität    |  Als ein User möchte ich eine Datei oder ein Ordner löschen, damit ich Sachen löschen kann, die ich nicht benötige.|
+| 4  |  muss               |  Funktionalität    |  Als ein User möchte ich eine Datei oder ein Ordner herunterladen, damit ich Dateien oder Ordner an andere versenden oder auf meinem PC speichern kann .|
+| 5  |  muss               |  Funktionalität    |  Als ein User möchte ich meine Dateien in einen Ordner ordnen, damit es Ordnung gibt.|
+| 6  | muss                | Qualität     |  Als ein User möchte ich meinen Ordner benennen, damit ich Dateien sortieren kann.                                      |
+| 7  | kann                | Funktionalität     |  Als ein User möchte ich, dass meine Dateien automatisch eingeordnet werden, damit ich schneller nach dem betroffenen Ordner suche.                                     |
+| 8  | muss                | Funktionalität     |  Als ein User möchte ich einen Begriff eingeben, damit ich die gewünschten Dateien/Ordner finden kann.                                     |
+| 9  | muss                | Funktionalität     |  Als ein User möchte ich die Dateien sehen, damit ich auf die gewünschten Dateien zugreifen kann.   |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 
 ### 1.21 Anforderungsanalyse
 | AA-№ | Typ | Anforderung  |
 | ---- | ------------ | ------- |
 |1|Funktional|Das Programm soll vom Benutzer die Dateinamen abfragen.|
-|1|Funktional|Das Programm soll die Funktion haben, einen neuen Ordner zu erstellen.|
-|1|Funktional|Das Programm soll die Funktion haben, Dateien und Ordner zu löschen.|
-|1|Funktional|Das Programm soll die Funktion haben, Dateien herunterzuladen|
-|2|Funktional|Das Programm soll automatisch die Dateien ordnen.| 
-|3|Funktional|Das Programm soll eine Suchoption zur Verfügung haben.|  
-|4|Randbedingungen|Das Programm muss in C# geschrieben sein.|   
-|5|Funktional|Das Programm soll ein Ergebnis zeigen.|   
-|6|Qualität|Das Programm soll Anzahl Ergebnis zeigen.|      
-|7|Qualität| Das Programm soll farbig aussehen.  |
+|2|Funktional|Das Programm soll die Funktion haben, einen neuen Ordner zu erstellen.|
+|3|Funktional|Das Programm soll die Funktion haben, Dateien und Ordner zu löschen.|
+|4|Funktional|Das Programm soll die Funktion haben, Dateien herunterzuladen|
+|5|Funktional|Das Programm soll automatisch die Dateien ordnen.| 
+|6|Funktional|Das Programm soll eine Suchoption zur Verfügung haben.|  
+|7|Randbedingungen|Das Programm muss in C# geschrieben sein.|   
+|8|Funktional|Das Programm soll ein Ergebnis zeigen.|   
+|9|Qualität|Das Programm soll Anzahl Ergebnis zeigen.|      
+|10|Qualität| Das Programm soll farbig aussehen.  |
 
 ### 1.3 Testfälle
 
@@ -76,7 +70,6 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 ![image](https://user-images.githubusercontent.com/111046257/199428125-03c62efe-7453-4bf8-ac32-19b1a596c170.png)
 ![image](https://user-images.githubusercontent.com/111046257/196634771-d5b579d5-d8ba-4b9f-a881-4d9a99a44a5f.png)
 
@@ -95,9 +88,7 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
