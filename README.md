@@ -63,8 +63,17 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Applikation startet             | -        | -                  |
+| 1.2  | Applikation zeigt userinterface             | Ordner suchen, Datei einfügen etc.         | suchen, einfügen                  |
+| 2.1  | Applikation start, userinterface             | Ordner erstellen        | Ordner wird erstellt                  |
+| 3.1  | Applikation zeigt Ordner an             | Ordner löschen        | Ordner wird gelöscht                   |
+| 4.1  | Applikation zeigt Dateien an             | Dateien herunterladen        | Datei wird heruntergeladen                  |
+| 4.2  | Applikation zeigt Ordner an             | Ordner Herunterladen        | Ordner wird heruntergeladen                  |
+| 5.1  | Applikation zeigt Dateien an             | Zu Ordner verschieben        | Datei wird in selected folder verschoben                  |
+| 6.1  | Applikation zeigt Ordner an             | Ordner zu Fächer umbennen        | Ordner wird zu Fächer umbennant                  |
+| 7.1  | Applikation fügt Datei zu             | Date auto sort to folder        | Datei wird automatisch sortiert                  |
+| 8.1  | Applikation start, userinterface             | Fächer suchen        | Fächer Datei/Ordner gefunden                  |
+| 9.1  | Applikation Begriff gefunden             | -        | Dateien werden gezeigt                  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
