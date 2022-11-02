@@ -82,8 +82,8 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 | 1.2 | 19.10.22       | Brandon |   User-Stories          |   30 Minuten            |
 | 1.3 | 19.10.22   | Mohammad |   Anforderungsanalyse          |  25 Minuten            |
 | 1.4 | 19.10.22    | Mohammad |   Test-Protokoll (Tabelle erstellen) |   10 Minuten            |
-| 1.5 | 19.10.22    | Nikola |   PAP Diagram erstellen          |   45 Minuten            |
-| 1.6 | 19.10.22  | Sathana + Nikola|   Mockup erstellen          |   45 Minuten            |
+| 1.5 | 19.10.22    | Nicola |   PAP Diagram erstellen          |   45 Minuten            |
+| 1.6 | 19.10.22  | Sathana + Nicola|   Mockup erstellen          |   45 Minuten            |
 | 1.7 | 19.10.22  | Sathana |   Entscheidungen aufschreiben         |   30 Minuten            |
 | 1.8 | 2.11.22  | Mohammad   |  User-Stories + Anforderungsanalyse ergänzen            |        45 Minuten |
 | 2.1 | x      | Nicola |   Sucheingabe erstellen          |   45 Minuten            |
