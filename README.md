@@ -78,13 +78,23 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 ## 2 Planen
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1 |       | Nicola |   Sucheingabe erstellen          |   45 Minuten            |
-| 2 |       | Nicola      | dropdownListe erstellen            |      45 Minuten          |
-| 3 |       | Nicola          |  automatische führung von Website erstellen          |       45 Minuten    |
-| 4 |       | Nicola          |  automatisches Einordnung            |   45 Minuten |
-| 5 |       | Nicola          | Suchfunktion             |      45 Minuten |
-| 6 |       | Nicola          | Dateien beim Suchen anzeigen             |     45 Minuten |
-| 7 |       | Nicola          |  Vorder- und Hintergrund Farben            |        45 Minuten |
+| 1.1 | 19.10.22      | Mohammad |   Planung         |   35 Minuten            |
+| 1.2 | 19.10.22       | Brandon |   User-Stories          |   30 Minuten            |
+| 1.3 | 19.10.22   | Mohammad |   Anforderungsanalyse          |  25 Minuten            |
+| 1.4 | 19.10.22    | Mohammad |   Test-Protokoll (Tabelle erstellen) |   10 Minuten            |
+| 1.5 | 19.10.22    | Nikola |   PAP Diagram erstellen          |   45 Minuten            |
+| 1.6 | 19.10.22  | Sathana + Nikola|   Mockup erstellen          |   45 Minuten            |
+| 1.7 | 19.10.22  | Sathana |   Entscheidungen aufschreiben         |   30 Minuten            |
+| 1.8 | 2.11.22  | Mohammad   |  User-Stories + Anforderungsanalyse ergänzen            |        45 Minuten |
+| 2.1 | x      | Nicola |   Sucheingabe erstellen          |   45 Minuten            |
+| 2.2 |  x     | Nicola      | dropdownListe erstellen            |      45 Minuten          |
+| 2.3 |   x    | Nicola          |  automatische führung von Website erstellen          |       45 Minuten    |
+| 2.4|    x   | Nicola          |  automatisches Einordnung            |   45 Minuten |
+| 2.5|     x  | Nicola          | Suchfunktion             |      45 Minuten |
+| 2.6|     x  | Nicola          | Dateien beim Suchen anzeigen             |     45 Minuten |
+| 2.7|      x | Nicola          |  Vorder- und Hintergrund Farben            |        45 Minuten |
+|3.1|    x   | Mohammad          |  Kontrollieren           |        45 Minuten |
+| 3.2 |      x | Mohammad          |  Kontrolle Dokumentieren            |        45 Minuten |
 
 Total: 
 
@@ -110,9 +120,14 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 1.1 | 19.10.22      | Mohammad |   Planung         |   35 Minuten            | 40 Minuten |
+| 1.2 | 19.10.22       | Brandon |   User-Stories          |   30 Minuten         | 45 Minuten   |
+| 1.3 | 19.10.22   | Mohammad |   Anforderungsanalyse          |  25 Minuten       | 30 Minuten     |
+| 1.4 | 19.10.22    | Mohammad |   Test-Protokoll (Tabelle erstellen) |   10 Minuten | 5 Minuten          |
+| 1.5 | 19.10.22    | Nikola |   PAP Diagram erstellen          |   45 Minuten        | 35 Minuten   |
+| 1.6 | 19.10.22  | Sathana + Nikola|   Mockup erstellen          |   45 Minuten       | 50 Minuten    |
+| 1.7 | 19.10.22  | Sathana |  Entscheidungen aufschreiben          |  30 Minuten           |25 Minuten |
+| 1.8 | 2.11.22  | Mohammad   |  User-Stories + Anforderungsanalyse ergänzen            |        45 Minuten | 30 Minuten|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
