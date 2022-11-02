@@ -71,7 +71,8 @@ Das Programm soll zeigen, wo unsere Dateien gespeichert sind und man kann auch O
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
-![image](https://user-images.githubusercontent.com/111046257/196634727-fbc9b382-c769-4c1f-b987-e5211f686f24.png)
+![image](https://user-images.githubusercontent.com/111046257/199428125-03c62efe-7453-4bf8-ac32-19b1a596c170.png)
+
 ![image](https://user-images.githubusercontent.com/111046257/196634771-d5b579d5-d8ba-4b9f-a881-4d9a99a44a5f.png)
 
 <img width="589" alt="MicrosoftTeams-image (1)" src="https://user-images.githubusercontent.com/111046257/196640878-4b1cbf14-d89c-4912-964d-abf97839047c.png">
