@@ -14,8 +14,8 @@ Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad 
 |19.10.2022| 1.0.3   |Wir haben die Planung gemacht.|
 |26.10.2022| 2.0.0   |Uns über programmieren mit HTML informiert.|
 |02.10.2022| 3.0.0   |Design-mockup erstellt.|
-|19.10.2022| 1.0.2   |Angenfangen mit Programmieren.|
-|19.10.2022| 1.0.0   |Projektdokumentation aktualisiert (Realisierung + Planung + fehlende Funktionen eingefügt).|
+|02.10.2022| 3.0.1   |Angenfangen mit Programmieren.|
+|02.10.2022| 3.0.2   |Projektdokumentation aktualisiert (Realisierung + Planung + fehlende Funktionen eingefügt).|
 
 ## 1 Informieren
 Ordner Suchen: Man hat verschiedene Text-Dateien in verschiedenen Ordnern. Man kann nach diesen Dateien individuell suchen oder die Such-Option benutzen. Hier kann man dann einen Begriff eingeben, der dann alle Dateien anzeigt, die diesen Begriff haben. 
