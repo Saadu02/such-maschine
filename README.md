@@ -8,7 +8,7 @@ Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad 
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |                                                              |
-|19.10.2022| 1.0.0   |PAP fertig erstellt.|
+|19.10.2022| 1.0.0|PAP fertig erstellt.|
 |19.10.2022| 1.0.1   |Wir haben uns informiert.|
 |19.10.2022| 1.0.2   |Wir haben uns für die Funktionen des Programs entsheiden.|
 |19.10.2022| 1.0.3   |Wir haben die Planung gemacht.|
