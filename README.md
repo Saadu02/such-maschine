@@ -142,7 +142,7 @@ Total:
 | 1.6 | 19.10.22  | Sathana + Nikola|   Mockup erstellen          |   45 Minuten       | 50 Minuten    |
 | 1.7 | 19.10.22  | Sathana |  Entscheidungen aufschreiben          |  30 Minuten           |25 Minuten |
 | 1.8 | 2.11.22  | Mohammad   |  User-Stories + Anforderungsanalyse ergänzen            |        45 Minuten | 30 Minuten|
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
