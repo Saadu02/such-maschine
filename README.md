@@ -1,21 +1,23 @@
 # Projekt-Dokumentation
 
 
-Gruppennamen: Such-Maschine
-
-
+Gruppennamen: Zettelkasten
 Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad Shahir.Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |                                                   
-|19.10.2022| 1.0.0|PAP fertig erstellt.|
-|19.10.2022| 1.0.1   |Wir haben uns informiert.|
-|19.10.2022| 1.0.2   |Wir haben uns für die Funktionen des Programs entsheiden.|
-|19.10.2022| 1.0.3   |Wir haben die Planung gemacht.|
+|09.11.2022| 4.0.0|PAP fertig erstellt.|
+|19.10.2022| 2.0.0   |Wir haben uns informiert.|
+|19.11.2022| 1.0.2   |Wir haben uns für die Funktionen des Programs entschieden.|
+|02.11.2022| 3.0.0   |Wir haben die Planung gemacht.|
 |26.10.2022| 2.0.0   |Uns über programmieren mit HTML informiert.|
-|02.10.2022| 3.0.0   |Design-mockup erstellt.|
-|02.10.2022| 3.0.1   |Angenfangen mit Programmieren.|
-|02.10.2022| 3.0.2   |Projektdokumentation aktualisiert (Realisierung + Planung + fehlende Funktionen eingefügt).|
+|09.11.2022| 4.0.0   |Design-mockup erstellt.|
+|02.11.2022| 3.0.1   |Angenfangen mit Programmieren.|
+|09.11.2022| 4.0.2   |Projektdokumentation aktualisiert (Realisierung + Planung + fehlende Funktionen eingefügt).|
+| 16.11.2022 | 5.0.0 | Suchoption Erfolgreich programmiert. |
+| 23.11.2022 | 6.0.0 | FileUpload Erfolgreich programmiert | 
+| 30.11.2022 | 7.0.0 | Programmieren abgeschlossen | 
+| 30.11.2022 | 8.0.0 | projektdikumentation fertig erstelltn | 
 
 ## 1 Informieren
 Ordner Suchen: Man hat verschiedene Text-Dateien in verschiedenen Ordnern. Man kann nach diesen Dateien individuell suchen oder die Such-Option benutzen. Hier kann man dann einen Begriff eingeben, der dann alle Dateien anzeigt, die diesen Begriff haben. 
