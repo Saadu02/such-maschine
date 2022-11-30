@@ -131,14 +131,22 @@ Total: 620 Minuten
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.1 | 19.10.22      | Mohammad |   Planung         |   35 Minuten            | 40 Minuten |
-| 1.2 | 19.10.22       | Brandon |   User-Stories          |   30 Minuten         | 45 Minuten   |
-| 1.3 | 19.10.22   | Mohammad |   Anforderungsanalyse          |  25 Minuten       | 30 Minuten     |
-| 1.4 | 19.10.22    | Mohammad |   Test-Protokoll (Tabelle erstellen) |   10 Minuten | 5 Minuten          |
-| 1.5 | 19.10.22    | Nikola |   PAP Diagram erstellen          |   45 Minuten        | 35 Minuten   |
-| 1.6 | 19.10.22  | Sathana + Nikola|   Mockup erstellen          |   45 Minuten       | 50 Minuten    |
-| 1.7 | 19.10.22  | Sathana |  Entscheidungen aufschreiben          |  30 Minuten           |25 Minuten |
-| 1.8 | 2.11.22  | Mohammad   |  User-Stories + Anforderungsanalyse ergänzen            |        45 Minuten | 30 Minuten|
+| 1.1 | 02.11.2022| Mohammad|   35 Minuten| 40 Minuten |
+| 2.0 | 02.11.2022| Brandon |  30 Minuten| 45 Minuten   |
+| 3.0 | 02.11.2022   | Sathana | 25 Minuten| 25 Minuten     |
+| 4.0 | 09.11.2022| Mohammad | 10 Minuten | 5 Minuten|
+| 5 | 09.11.2022| Nicola |  45 Minuten| 35 Minuten   |
+| 6 | 09.11.2022  | Sathana + Nicola| 45 Minuten| 45 Minuten  |
+| 7 | 16.11.2022 | Sathana |  30 Minuten|25 Minuten |
+| 8 | 16.11.2022| Mohammad   | 45 Minuten | 30 Minuten|
+| 9 | 16.11.2022 | Nicola | 45 Minuten | 40 Minuten |
+| 10 | 16.11.2022 |Nicola |  40 Minuten| 30 Minuten|
+| 11 | 16.11.2022|Nicola + Sathana|50 Minuten | 50 Minuten |
+| 12 | 23.11.2022 |Sathana| 40 Minuten | 35 Minuten|
+| 13 | 23.11.2022 | Nicola | 30 Minuten| 30 Minuten |
+| 14 | 23.11.2022 | Sathana|60 Minuten |60 Minuten|         
+| 15 | 30.11.2022 | Mohammand| 45 Minuten|40 Minuten|      
+| 16 | 30.11 2022 | Sathana| 45 Minuten |50 Minuten|     
 
 
 ## 5 Kontrollieren
