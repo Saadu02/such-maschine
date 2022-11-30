@@ -17,7 +17,7 @@ Mitglieder: Sathana Suganthasri, Nicola Luca.Karrer, Brandon Spaqi und Mohammad 
 | 16.11.2022 | 5.0.0 | Suchoption Erfolgreich programmiert. |
 | 23.11.2022 | 6.0.0 | FileUpload Erfolgreich programmiert | 
 | 30.11.2022 | 7.0.0 | Programmieren abgeschlossen | 
-| 30.11.2022 | 8.0.0 | projektdokumentation fertig erstelltn | 
+| 30.11.2022 | 8.0.0 | Projektdokumentation fertig erstellt | 
 
 ## 1 Informieren
 Ordner Suchen: Man hat verschiedene Text-Dateien in verschiedenen Ordner. Man kann nach diesen Dateien individuell die Such-Option benutzen. Hier kann man dann einen Begriff eingeben, der dann alle Dateien anzeigt, die diesen Begriff haben. 
