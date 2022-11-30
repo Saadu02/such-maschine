@@ -113,18 +113,7 @@ Total: 620 Minuten
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
-| AP-№ | Zuständig | Was | Datum | Erledigt|
-| ---- | ----- | --------- | ------------ | ------------- |
-|      |alle|dokumentation|              |               |
-|      |Brandon|Design|              |               |
-|      |Mohammand|Kontrollieren|              |               |
-|      |alle|Informieren|25.09.2022|               |
-|      |Sathana|Auftragsanalyse|19.10.2022|               |
-|      |Sathana, Nicola|Vorstellung zeichnen|19.10.2022|               |
-|      |Nicola|PAP-design|19.10.2022|               |
-
+Als erstes haben wir entschieden das Programm als Website zuerstellen. Da wir Blazor noch mühe hatten, haben wir entschieden statt website, Winforms zu programmieren. 
 
 
 ## 4 Realisieren
@@ -166,14 +155,6 @@ Total: 620 Minuten
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
